@@ -1,0 +1,14 @@
+/Users/anilkumar/unittesting/MyUnitTesting/obj/Debug/net7.0/MyUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anilkumar/unittesting/MyUnitTesting/obj/Debug/net7.0/MyUnitTesting.AssemblyInfoInputs.cache
+/Users/anilkumar/unittesting/MyUnitTesting/obj/Debug/net7.0/MyUnitTesting.AssemblyInfo.cs
+/Users/anilkumar/unittesting/MyUnitTesting/obj/Debug/net7.0/MyUnitTesting.csproj.CoreCompileInputs.cache
+/Users/anilkumar/unittesting/MyUnitTesting/bin/Debug/net7.0/MyUnitTesting
+/Users/anilkumar/unittesting/MyUnitTesting/bin/Debug/net7.0/MyUnitTesting.deps.json
+/Users/anilkumar/unittesting/MyUnitTesting/bin/Debug/net7.0/MyUnitTesting.runtimeconfig.json
+/Users/anilkumar/unittesting/MyUnitTesting/bin/Debug/net7.0/MyUnitTesting.dll
+/Users/anilkumar/unittesting/MyUnitTesting/bin/Debug/net7.0/MyUnitTesting.pdb
+/Users/anilkumar/unittesting/MyUnitTesting/obj/Debug/net7.0/MyUnitTesting.dll
+/Users/anilkumar/unittesting/MyUnitTesting/obj/Debug/net7.0/refint/MyUnitTesting.dll
+/Users/anilkumar/unittesting/MyUnitTesting/obj/Debug/net7.0/MyUnitTesting.pdb
+/Users/anilkumar/unittesting/MyUnitTesting/obj/Debug/net7.0/MyUnitTesting.genruntimeconfig.cache
+/Users/anilkumar/unittesting/MyUnitTesting/obj/Debug/net7.0/ref/MyUnitTesting.dll
